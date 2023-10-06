@@ -1,10 +1,10 @@
 # Sudo command
 `sudo apt upgrade`
 
-![Alt text](images/sudo.png)
+![This command is used to that actually downloads and upgrades the package to the new version](images/sudo.png)
 
 # pwd command
 
 `pwd`
 
-![Alt text](images/pwd.png)
+![This command is used to print the current working directory](images/pwd.png)
