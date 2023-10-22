@@ -5,6 +5,7 @@
 # Sudo command
 
 Sudo command let you perform task that require administrative or root permission
+
 `sudo apt upgrade`
 
 ![Alt text](images/sudo.png)
