@@ -1,6 +1,6 @@
 # Linux Practice Project
 
-## A project on how to run**basic linux command**on ubuntu terminal
+## A project on how to run **basic linux command** on ubuntu terminal
 
 # Sudo command
 `sudo apt upgrade`
