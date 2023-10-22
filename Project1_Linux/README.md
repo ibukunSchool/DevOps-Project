@@ -18,6 +18,5 @@ Use the pwd command to find the path of your current working directory
 ![Alt text](images/pwd.png)
 
 # ls Command
-`ls`
-`This ls command list files and diectories within a system`
+`ls, this is a command that list files and diectories within a system`
 ![Alt text](images/ls.png)
