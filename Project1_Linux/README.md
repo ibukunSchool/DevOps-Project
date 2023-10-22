@@ -11,6 +11,7 @@ Sudo command let you perform task that require administrative or root permission
 ![Alt text](images/sudo.png)
 
 # pwd command
+Use the pwd command to find the path of your current working directory
 
 `pwd`
 
